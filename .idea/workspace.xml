@@ -41,7 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704462466150</updated>
       <workItem from="1704462469934" duration="1280000" />
-      <workItem from="1704464754267" duration="55000" />
+      <workItem from="1704464754267" duration="884000" />
     </task>
     <task id="LOCAL-00001" summary="deneme b3 mehmet butonu eklendi.">
       <created>1704462641466</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704464778069</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deneme b4 mehmet butonu eklendi.">
+      <created>1704464820955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704464820955</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deneme b3 mehmet butonu eklendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme b3 mehmet butonu eklendi." />
+    <MESSAGE value="deneme b4 mehmet butonu eklendi." />
+    <option name="LAST_COMMIT_MESSAGE" value="deneme b4 mehmet butonu eklendi." />
   </component>
 </project>
